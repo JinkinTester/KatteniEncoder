@@ -1,0 +1,2 @@
+# KatteniEncoder
+Dropboxに動画ファイルぶち込んだら、自動でエンコードしてDropboxにエクスポートしてくれる奴作るよ♪
